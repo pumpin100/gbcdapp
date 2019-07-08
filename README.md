@@ -1,4 +1,6 @@
-# gbcdapp
+# Gbcdapp 
+
+
 ***Smart contract***
 
 
@@ -7,3 +9,15 @@ of the dapp is written. it is were we keep tracks of the list of all candidate t
 will be written.
 
 Namely that the fact that the account can only vote one time in the election.
+
+
+**FRONTEND**
+Still developing
+
+
+
+**BACKEND**
+ Still developing
+ 
+ 
+ 
